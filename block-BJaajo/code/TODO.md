@@ -6,6 +6,7 @@ Create the execution context diagram of the following code. Also write the outpu
 console.log('First');
 setTimeout(() => console.log('Second'), 0);
 console.log('Third');
+
 ```
 
 2.
