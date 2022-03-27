@@ -10,6 +10,7 @@ Your app will do the following:
 
 - API: https://api.github.com/users/{username}
 - Followers List: https://api.github.com/users/{username}/followers
+- 
 - Following List: https://api.github.com/users/{username}/following
 
 # Cat Image Website
