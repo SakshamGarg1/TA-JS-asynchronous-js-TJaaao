@@ -5,6 +5,7 @@
 - Create a full CRUD (create, read, update and delete) operations
 - Display a list of todos on the homepage
 - Using input add a new todo
+- 
 - Handle toggle (check/uncheck)
 - Clicking on delete/cross button can delete the todo
 - Double click to edit the individual todo
