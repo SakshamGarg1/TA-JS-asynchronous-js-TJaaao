@@ -7,6 +7,7 @@
   - https://random.dog/woof.json
   - https://aws.random.cat/meow
 
+
 - Use `Promise.allSettled` to log the value of each promise from the given list of promises. And also check if `Promise.all` works with `one`, `two` and `three` or not
 
 ```js
